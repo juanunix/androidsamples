@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseDB</string>
+    <string name="test">Work</string>
+    <string name="hello_test">Hello Test!</string>
+    <string name="message">Enter Value to update in Firebase</string>
+    <string name="updatedValueDisplayText">Updated Value From Firebase</string>
+</resources>
